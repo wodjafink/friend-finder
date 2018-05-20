@@ -5,93 +5,93 @@ var friendsData = [
 	  "scores":[
 	      5,
 	      1,
-	      4,
-	      4,
+	      3,
 	      5,
-	      1,
 	      2,
 	      5,
-	      4,
-	      1
+	      2,
+	      5,
+	      1,
+	      2
 	    ]
 	},
 	{
 	  "name":"Thor",
 	  "photo":"http://static.tvtropes.org/pmwiki/pub/images/thorinfinitywar.png",
 	  "scores":[
-	      5,
 	      1,
-	      4,
-	      4,
 	      5,
-	      1,
 	      2,
+	      3,
 	      5,
-	      4,
-	      1
+	      1,
+	      3,
+	      1,
+	      3,
+	      5
 	    ]
 	},
 	{
 	  "name":"Captain America",
 	  "photo":"http://static.tvtropes.org/pmwiki/pub/images/captainamericainfinitywar.png",
 	  "scores":[
-	      5,
-	      1,
-	      4,
-	      4,
-	      5,
-	      1,
 	      2,
-	      5,
 	      4,
-	      1
+	      2,
+	      2,
+	      1,
+	      4,
+	      1,
+	      3,
+	      5,
+	      4
 	    ]
 	},
 	{
 	  "name":"Black Widow",
 	  "photo":"http://static.tvtropes.org/pmwiki/pub/images/blackwidowinfinitywar.png",
 	  "scores":[
-	      5,
-	      1,
-	      4,
-	      4,
-	      5,
-	      1,
 	      2,
-	      5,
+	      3,
+	      3,
+	      3,
 	      4,
-	      1
+	      3,
+	      3,
+	      3,
+	      2,
+	      3
 	    ]
 	},	
 	{
-	  "name":"Black Widow",
+	  "name":"The Incredible Hulk",
 	  "photo":"http://static.tvtropes.org/pmwiki/pub/images/hulkinfinitywar.png",
 	  "scores":[
 	      5,
-	      1,
-	      4,
-	      4,
 	      5,
+	      1,
 	      1,
 	      2,
-	      5,
+	      3,
+	      3,
 	      4,
-	      1
+	      3,
+	      3
 	    ]
 	},
 	{
 	  "name":"Black Panther",
 	  "photo":"http://static.tvtropes.org/pmwiki/pub/images/blackpantherinfinitywar.png",
 	  "scores":[
-	      5,
 	      1,
 	      4,
-	      4,
-	      5,
-	      1,
 	      2,
-	      5,
+	      2,
 	      4,
+	      4,
+	      5,
+	      2,
+	      3,
 	      1
 	    ]
 	},
@@ -99,95 +99,95 @@ var friendsData = [
 	  "name":"Vision",
 	  "photo":"http://static.tvtropes.org/pmwiki/pub/images/visioninfinitywar.png",
 	  "scores":[
+	      3,
+	      3,
 	      5,
-	      1,
-	      4,
-	      4,
-	      5,
+	      2,
 	      1,
 	      2,
 	      5,
-	      4,
-	      1
+	      5,
+	      1,
+	      5
 	    ]
 	},
 	{
 	  "name":"Star Lord",
 	  "photo":"http://static.tvtropes.org/pmwiki/pub/images/starlordinfinitywar.png",
 	  "scores":[
-	      5,
-	      1,
-	      4,
-	      4,
-	      5,
-	      1,
+	      3,
 	      2,
+	      1,
 	      5,
 	      4,
-	      1
+	      1,
+	      1,
+	      4,
+	      3,
+	      4
 	    ]
 	},
 	{
 	  "name":"Gamora",
 	  "photo":"http://static.tvtropes.org/pmwiki/pub/images/gamorainfinitywar.png",
 	  "scores":[
-	      5,
-	      1,
-	      4,
+	      2,
+	      2,
+	      3,
 	      4,
 	      5,
 	      1,
 	      2,
-	      5,
+	      3,
 	      4,
-	      1
+	      4
 	    ]
 	},
 	{
 	  "name":"Scarlet Witch",
 	  "photo":"http://static.tvtropes.org/pmwiki/pub/images/scarletwitchinfinitywar.png",
 	  "scores":[
-	      5,
 	      1,
-	      4,
-	      4,
-	      5,
 	      1,
 	      2,
-	      5,
+	      3,
+	      1,
 	      4,
-	      1
+	      1,
+	      2,
+	      4,
+	      5
 	    ]
 	},
 	{
 	  "name":"Doctor Strange",
 	  "photo":"http://static.tvtropes.org/pmwiki/pub/images/doctorstrangeinfinitywar.png",
 	  "scores":[
-	      5,
-	      1,
-	      4,
-	      4,
-	      5,
-	      1,
 	      2,
-	      5,
+	      2,
 	      4,
-	      1
+	      2,
+	      1,
+	      5,
+	      5,
+	      5,
+	      3,
+	      5
 	    ]
 	},
 	{
 	  "name":"Spider Man",
 	  "photo":"http://static.tvtropes.org/pmwiki/pub/images/spidermaninfinitywar.png",
 	  "scores":[
-	      5,
-	      1,
 	      4,
 	      4,
-	      5,
-	      1,
+	      3,
+	      3,
 	      2,
-	      5,
 	      4,
+	      3,
+	      3,
+	      2,
 	      1
 	    ]
 	}
