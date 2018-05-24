@@ -9,3 +9,8 @@ You'll be given the interactive quiz about what kind of Avenger you are most lik
 Then your profile will be added to the Avengers!
 
 Technical notes:
+
+* Uses Express to provide routes to the various HTML pages and get / post API routes
+* Uses Body Parser to send JSON data.  Currently the JSON data is stored in a js file
+* Files are neatly organized so that the routes for HTML and API resourcing are separate
+* Gave the personality quiz theme a fun twist after watching the new Avengers movie
